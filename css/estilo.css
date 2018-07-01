@@ -1,0 +1,16 @@
+body {background: url(../imag/fondo.jpg);
+	
+	color: black;
+	font-family: 'Anton', sans-serif;}
+
+h1 {color: yellow;
+	text-align: center;
+	text-decoration: overline;
+	
+	font-size: 60px;}
+
+#menufooter{list-style: square;
+			float: left;
+			display: inline;}
+
+
